@@ -2,13 +2,13 @@
 
 using namespace std;
 
-int main()(
+int main(){
     int x, y;
     cout << "Enter X: ";
     cin >> x;
 
     cout <<"Enter y: ";
-    cin >> y:
+    cin >> y;
 
     cout << "x + y = " << (x+y) <<endl;
     cout << "x - y = " << (x-y) <<endl;
@@ -16,4 +16,4 @@ int main()(
     cout << "x / y = " << (x/y) <<endl;
     
     return 0;
-)
+}

@@ -7,4 +7,5 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 include_directories(include)
 
 add_executable(main src/main.cpp)
-add_executable(main src/ex0101.ccp)
+add_executable(ex0101 src/ex0101.ccp)
+add_executable(ex0102 src/ex0102.ccp)
