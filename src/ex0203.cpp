@@ -6,7 +6,7 @@ int main(){
     char c;
     
     do {
-        cout << "Enter Operation (+,-,*,/) or q to terminate"
+        cout << "Enter Operation (+,-,*,/) or q to terminate";
         cin >> c;
 
         if(c == 'q')break;
